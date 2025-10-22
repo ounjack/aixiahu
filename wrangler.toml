@@ -6,7 +6,7 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23liNZwi03092zUzBn"
 GITHUB_OWNER = "ounjack"
-GITHUB_REPO = "xiahu"
+GITHUB_REPO = "aixiahu"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://aixiahu.com/api/auth"
 NEXT_PUBLIC_API_URL="https://aixiahu.com"
