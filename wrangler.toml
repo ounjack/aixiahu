@@ -1,4 +1,4 @@
-name = "navsphere"
+name = "aixiahu"
 compatibility_date = "2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
@@ -9,5 +9,5 @@ GITHUB_OWNER = "ounjack"
 GITHUB_REPO = "aixiahu"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://aixiahu.com/api/auth"
-NEXT_PUBLIC_API_URL="https://aixiahu.com"
+NEXT_PUBLIC_API_URL="https://aixiahu.com/"
 
